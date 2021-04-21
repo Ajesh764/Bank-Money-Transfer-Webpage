@@ -5,5 +5,5 @@ Simple, Dynamic Website that aids user to transfer money to other users of the s
 - the sql file is to be imported onto any local serves(xampp,wampp)
 - further queries or suggestions are most welcome!
 
-Ajesh
+Ajesh,
 Author
